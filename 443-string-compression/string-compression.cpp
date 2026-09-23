@@ -25,6 +25,6 @@ public:
         for(int i=0;i<s.size();i++)
             chars[i]=s[i];
 
-        return s.size();
+        return s.size();//retuned
     }
 };
